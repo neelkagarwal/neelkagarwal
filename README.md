@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br/>
 👋 Welcome to my GitHub!
 
-I’m **Neelkumar**, a Data Engineer who enjoys building scalable data pipelines, automating workflows, and turning raw data into insights.
+I'm A Data Engineer who enjoys building scalable data pipelines, automating workflows, and turning raw data into insights.
 
 Here you’ll find:
 - 🔧 Projects with Python, SQL, PySpark, and Azure  
